@@ -23,3 +23,7 @@ After downloading the data set you need to extract it and put it in your project
 For saving the data that you scraped , you need to create an empty csv file and then link it to your code :
 <div class="highlight highlight-source-shell"><pre>df.to_csv('yourEmptyCsvFile.csv', index=False)</pre></div>
 
+
+# This codes has been written by Shravan Kuchkula and I upgraded it for a better performance
+If you had any issue ask me
+email : homayoun.srp@gmail.com
