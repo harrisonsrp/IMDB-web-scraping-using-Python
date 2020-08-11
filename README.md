@@ -25,4 +25,4 @@ For saving the data that you scraped , you need to create an empty csv file and 
 
 
 # This codes has been written by Shravan Kuchkula and I upgraded it for a better performance
-If you had any issue just tell me : homayoun.srp@gmail.com
+If you had any issues just tell me : homayoun.srp@gmail.com
