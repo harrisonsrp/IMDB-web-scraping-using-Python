@@ -24,6 +24,8 @@ For saving the data that you scraped , you need to create an empty csv file and 
 <div class="highlight highlight-source-shell"><pre>df.to_csv('yourEmptyCsvFile.csv', index=False)</pre></div>
 
 
-This codes has been written by Shravan Kuchkula and I upgraded it for a better performance
 <hr>
+<br>
 If you had any issues just tell me : homayoun.srp@gmail.com
+<br>
+This codes has been written by Shravan Kuchkula and I upgraded it for a better performance
