@@ -28,4 +28,4 @@ For saving the data that you scraped , you need to create an empty csv file and 
 <br>
 If you had any issues just tell me : homayoun.srp@gmail.com
 <br>
-This codes has been written by Shravan Kuchkula and I upgraded it for a better performance
+This codes has been written by Shravan Kuchkula and I improved it
