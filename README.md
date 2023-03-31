@@ -1,4 +1,4 @@
-# python-review-scraping-imdb-movie-site-with-BeautifulSoup
+# IMDB web scraping using Python
 With this Code you can have a data set from IMDB users with their reviews , user_id , username , movie_title , and review_id
 
 # Lets start to learn how to use this code :
