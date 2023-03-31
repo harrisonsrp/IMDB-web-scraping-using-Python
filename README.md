@@ -26,6 +26,6 @@ For saving the data that you scraped , you need to create an empty csv file and 
 
 <hr>
 <br>
-If you had any issues just tell me : homayoun.srp@gmail.com
+If you have any issues do not hesitate to email me: homayoun.srp@gmail.com
 <br>
 This codes has been written by Shravan Kuchkula and I improved it
