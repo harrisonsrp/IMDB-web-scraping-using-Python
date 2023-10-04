@@ -27,5 +27,3 @@ For saving the data that you scraped , you need to create an empty csv file and 
 <hr>
 <br>
 If you have any issues do not hesitate to email me: homayoun.srp@gmail.com
-<br>
-This codes has been written by Shravan Kuchkula and it has been imporoved by me for extracting more attributes
